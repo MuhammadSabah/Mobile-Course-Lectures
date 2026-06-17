@@ -1,3 +1,3 @@
 # Mobile-Course-Lectures
 
-Those are the mobile course lectures for ukh-aiic
+Those are the mobile course lectures for UKH-AIIC
